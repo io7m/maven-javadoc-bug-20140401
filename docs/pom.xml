@@ -44,7 +44,7 @@
             <id>javadoc-aggregate</id>
             <phase>package</phase>
             <goals>
-              <goal>aggregate</goal>
+              <goal>javadoc</goal>
             </goals>
             <configuration>
               <outputDirectory>${project.build.directory}/apidocs</outputDirectory>
